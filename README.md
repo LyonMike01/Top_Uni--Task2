@@ -12,4 +12,4 @@
 3. properly commented codebase
 
 ## Author
-Jay Flash
+Titi Tope Mike
